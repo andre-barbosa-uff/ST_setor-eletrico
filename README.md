@@ -1,2 +1,2 @@
-# energy_safety
-This is a Safety Algorithm, created from the AI ​​(machine learning) approach, developed in favor of reducing the number of accidents in the electric power sector (be it in the construction, implantation or O&amp;M of plants and / or substations).
+# ST_setor elétrico
+Este é um algoritmo de Segurança do Trabalho (ST) criado a partir da abordagem de Inteligência Artificial (Machine Learning) com objetivo de prever e, portanto, reduzir o número de acidentes/incidentes de trabalho no setor elétrico.
